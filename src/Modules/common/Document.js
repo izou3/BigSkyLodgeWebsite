@@ -47,7 +47,6 @@ export default class Document extends React.Component {
           <AfterRoot />
           <AfterData />
           <AfterScripts />
-          <script src='/static/js/bundle.b148c4d7.js' defer></script>
         </body>
       </html>
     );
