@@ -23,7 +23,7 @@ module.exports =
 /******/
 /******/ 	var hotApplyOnUpdate = true;
 /******/ 	// eslint-disable-next-line no-unused-vars
-/******/ 	var hotCurrentHash = "c6e87bfadc723afac7e3";
+/******/ 	var hotCurrentHash = "319e4e309573b1aaf6fc";
 /******/ 	var hotRequestTimeout = 10000;
 /******/ 	var hotCurrentModuleData = {};
 /******/ 	var hotCurrentChildModule;
@@ -1253,6 +1253,14 @@ var Document = /*#__PURE__*/function (_React$Component) {
         __source: {
           fileName: _jsxFileName,
           lineNumber: 49,
+          columnNumber: 11
+        }
+      }), /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_9___default.a.createElement("script", {
+        src: "/static/js/bundle.b148c4d7.js",
+        defer: true,
+        __source: {
+          fileName: _jsxFileName,
+          lineNumber: 50,
           columnNumber: 11
         }
       })));
