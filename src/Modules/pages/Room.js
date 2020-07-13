@@ -8,6 +8,8 @@ import Amenities from '../../img/amenities.jpg';
 import Single from '../../img/singleQueen2.jpg'; 
 import Double from '../../img/double2.jpg'; 
 import DoubleQueen from '../../img/DoubleQueen.jpg'; 
+import Skyline from '../../img/Skyline.jpg'; 
+import Triple from '../../img/double.jpg'; 
 
 //MaterialUI components 
 import { CssBaseline } from '@material-ui/core'; 
@@ -31,7 +33,7 @@ const roomInfo = [
             'Scenic Viewing and Picnic Area',
             'Parking at your Door. All One Level',
             'Wireless Internet Access and Dish TV', 
-            'Breakfast and Outdoor Hot Tub (Unavailable this Season)', 
+            'Breakfast (Grab & Go) and Outdoor Hot Tub (Unavailable this Season)', 
         ]
     }, 
     {
@@ -79,6 +81,7 @@ const roomInfo = [
     {
         flow:'row', 
         id: 'skylinetriple',
+        picture: Triple,
         title: 'Skyline Triple',
         content: [
             '3 Double/Fill Sized Beds in 2 Bedrooms', 
@@ -91,6 +94,7 @@ const roomInfo = [
     {
         flow:'row-reverse', 
         id: 'skylinesuite',
+        picture: Skyline, 
         title: 'Skyline Suite',
         content: [
             'Two BedRoom Suite with Kitchen and Living Area', 
