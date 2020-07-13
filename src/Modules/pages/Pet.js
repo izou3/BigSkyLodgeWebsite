@@ -28,8 +28,8 @@ function Pet (props) {
                 title='Dog Policy'
                 img={PetImage}
                 content={[
-                    'Please declare your dog(s) at check-in. We do charge a pet fee', 
-                    'In consideration of others, please don’t forget to clean up after your pet(s) and keep them within your control at all times.', 
+                    'Please declare your dog(s) when making your reservation. We only have limited pet rooms', 
+                    'We only accept small to medium sized dogs and we do charge an additional pet fee of $15-$20 per pet per night depending on the room as well as a $50 pet deposit.', 
                     'Hotel management has sole discretion to ask a pet owner to find other accommodations if they deem the pet to be dangerous, harmful, or disruptive to other hotel guests.', 
                     'The hotel may charge a guest if services are required for excessive cleaning or if damages are incurred as a result of the guest’s pet.'
 

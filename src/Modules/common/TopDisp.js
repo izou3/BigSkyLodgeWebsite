@@ -22,7 +22,7 @@ const useStyles = makeStyles(theme => ({
         height: '450px'
       }, 
       [theme.breakpoints.up("xl")]: {
-        height: "950px"
+        height: "650px"
       },
     },
     overlay: {
