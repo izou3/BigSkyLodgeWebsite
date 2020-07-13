@@ -1,8 +1,7 @@
-# Razzle x After.js
+# Big Sky Lodge Website and Management System Landing Page
 
-## How to use
+##  Website is live at www.bigskylodge.com 
 
-Download the example [or clone the whole project](https://github.com/jaredpalmer/after.js.git):
 
 ```bash
 curl https://codeload.github.com/jaredpalmer/after.js/tar.gz/master | tar -xz --strip=2 razzle-master/examples/basic
